@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring Thailand: A Journey Through Its Islands and Cities"
-date:   2025-02-10 10:28:35 +0000
+date:   2024-02-10 10:28:35 +0000
 categories: News
 excerpt_image: http://www.travelstart.co.za/blog/wp-content/uploads/2018/12/map-of-thailands-islands.jpg
 image: http://www.travelstart.co.za/blog/wp-content/uploads/2018/12/map-of-thailands-islands.jpg
