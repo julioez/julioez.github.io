@@ -3,8 +3,8 @@ layout: post
 title: "Choosing the Perfect Hotel for Business Travel in Southeast Asia"
 date:   2024-09-17 23:49:25 +0000
 categories: News
-excerpt_image: https://ksth.com/en/wp-content/uploads/2021/04/011.jpg
-image: https://ksth.com/en/wp-content/uploads/2021/04/011.jpg
+excerpt_image: https://www.trulyclassy.com/wp-content/uploads/2023/07/RDB-580127-Karnak-Meeting-Room-Meeting-room.jpg
+image: https://www.trulyclassy.com/wp-content/uploads/2023/07/RDB-580127-Karnak-Meeting-Room-Meeting-room.jpg
 ---
 
 Business travel requires careful planning, especially when it comes to selecting accommodation. The right hotel can enhance productivity and provide a comfortable environment. This blog explores various hotel options across key cities in Southeast Asia, ensuring you find the ideal stay for your needs.
