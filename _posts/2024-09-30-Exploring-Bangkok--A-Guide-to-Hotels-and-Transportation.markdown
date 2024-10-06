@@ -3,8 +3,8 @@ layout: post
 title: "Exploring Bangkok: A Guide to Hotels and Transportation"
 date:   2024-09-30 04:33:32 +0000
 categories: News
-excerpt_image: http://toursmaps.com/wp-content/uploads/2016/07/bangkokmap-1.gif
-image: http://toursmaps.com/wp-content/uploads/2016/07/bangkokmap-1.gif
+excerpt_image: https://miro.medium.com/v2/resize:fit:640/0*-R8uFbQ-7R7tJlBJ.jpg
+image: https://miro.medium.com/v2/resize:fit:640/0*-R8uFbQ-7R7tJlBJ.jpg
 ---
 
 Bangkok is a vibrant city known for its rich culture, bustling streets, and a diverse range of accommodations. With numerous hotels, from luxurious five-star establishments to budget-friendly options, travelers can find the perfect place to stay. This guide will help you navigate your choices, focusing on some recommended hotels and transportation tips. Whether you’re visiting for business or pleasure, understanding your options can enhance your experience in this dynamic city.
